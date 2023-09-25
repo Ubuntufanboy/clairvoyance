@@ -8,14 +8,8 @@
 
 # Purpose
 
-Parents in devleoping neighborhoods suffer from anxioty of not knowing what will happen to their child on a school bus and if the bus makes it to its destanation without issues
+A parents' #1 priority is the safety of their children, but in some cases, such as while riding a school bus, students are increasingly susceptible to danger. And so, by developing a system of communication between bus drivers and parents relaying delays, location, and messaging, we can help ensure the protection of the youth.
 
-### Why this matters
+# About This Project
 
-Protecting children from danger and predators is out #1 priority. Allowing bus drivers to report suspisious activity to parents is crucial to keeping children safe from
-Dangerous people and dangerous things. Not to mention parents should be able to have a line of comunication with bus drivers in the event of an accident or anything that could endanger the parents children
-
-# About this project
-
-This project is a submition to Equitable Elevation II. Find more information here https://equitable-elevation-ii.devpost.com/?ref_feature=challenge&ref_medium=discover
-
+This project is a submission for Equitable Elevation II. Find more information here: https://equitable-elevation-ii.devpost.com/?ref_feature=challenge&ref_medium=discover
