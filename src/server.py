@@ -7,7 +7,7 @@ def event_stream():
     prev = ""
     while True:
         while True:
-            time.sleep(1)
+            time.sleep(5)
             with open("event.txt", 'r') as f:
                 data = f.read()
                 if data != prev:
@@ -25,5 +25,4 @@ def sse():
     return Response(event_stream(), content_type='text/event-stream')
 
 if __name__ == '__main__':
-    app.run(debug=True)
-
+    app.run()
