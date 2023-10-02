@@ -1,24 +1,10 @@
-"""
-This file is what will be run by the bus driver
-
-Write functions for the following
-
-1. Update location (Which bus stop)
-2. Report delay (use "import feed" and "feed.delay(time_in_minutes)")
-3. Message parents (Use "import feed" and "feed.messAage(parent, msg) parent should be a class)
-4. Report suspisous activity (use "import feed" and "feed.report(msg)")
-5. allow parents to sign up
-"""
-
 import feed
-
-# This is a blueprint for parents
 
 class Parent:
     def __init__(self, name):
         self.name = name
     
-        self.alerts = [] # empty but might get alerts later
+        self.alerts = []
 
 
 def make_parent(name):
